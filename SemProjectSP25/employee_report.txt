@@ -1,0 +1,16 @@
+Average Salary of Employees: 16916.50
+
+Highest-Paid Employee:
+Name: shamim
+Age: 22
+Salary: 33333.00
+Position: manager
+Experience Level: Senior
+
+Employee Report:
+------------------------------------------------------------
+Name		Age	Salary		Position		Experience Level
+------------------------------------------------------------
+shamim		22	33333.00		manager		Senior
+tamim		12	500.00		vauta		Junior
+------------------------------------------------------------
